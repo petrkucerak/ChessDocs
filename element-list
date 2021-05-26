@@ -4,3 +4,6 @@ cz.cvut.fel.pjv.ControlerUtils
 cz.cvut.fel.pjv.model
 cz.cvut.fel.pjv.model.Pieces
 cz.cvut.fel.pjv.model.Player
+cz.cvut.fel.pjv.PGN
+cz.cvut.fel.pjv.TimeClock
+cz.cvut.fel.pjv.Utils
